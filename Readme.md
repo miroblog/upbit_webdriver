@@ -1,4 +1,4 @@
-# Upbit API Collections
+# Upbit Trader - Selenium Webdriver
 
 Automates upbit exchange platform using selenium webdriver  
 The code was written before the official rest-api for upbit exchange was released.  
@@ -42,11 +42,11 @@ common library such as BeautifulSoup, selenium, pyperclip
 pip install -r requirements.txt
 ```
 
-![candle](https://github.com/miroblog/upbit_api_collection/blob/master/png/ohlc.png)
+![automation](https://github.com/miroblog/upbit_webdriver/blob/master/upbit_orderbook.png)
 
 ## Authors
 
-* **Lee Hankyol** - *Initial work* - [Upbit_API_COLLECTION](https://github.com/miroblog/upbit_api_collection)
+* **Lee Hankyol** - *Initial work* - [Upbit_Webdriver](https://github.com/miroblog/upbit_webdriver/)
 
 ## License
 
