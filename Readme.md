@@ -2,7 +2,7 @@
 
 Automates upbit exchange platform using selenium webdriver  
 The code was written before the official rest-api for upbit exchange was released.  
-The official API is released 2018. 06 https://docs.upbit.com/blog/  
+The official API was released at https://docs.upbit.com/blog/ (2018. 06)   
 
 It is for educational purposes only. This code may come in handy where official rest-api is not available.  
 
